@@ -53,5 +53,6 @@ plt.legend()
 plt.grid(True)
 
 plt.show()
+print ("Go Brewers")
 
 
